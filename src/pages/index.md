@@ -9,10 +9,8 @@ mainpitch:
   description: Mijn naam is Khalid El Moussaoui, student van AP Hogeschool met als
     afstudeerrichting Graduaat Programmeren. Het 2de semester ben ik namelijk
     stage aan het lopen bij een software testing bedrijf genaamd Brightest.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Dit is mijn portfolio die ik gebruik doorheen de stage en schrijf
+  ik alles wat ik heb gedaan bij Brightest.
 intro:
   blurbs: []
   heading: What we offer
